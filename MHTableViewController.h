@@ -1,5 +1,5 @@
 //
-//  MHViewController.h
+//  MHTableViewController.h
 //  Lecture 114 Challenge
 //
 //  Created by Mike's iMac on 4/25/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface MHViewController : UIViewController
+@interface MHTableViewController : UITableViewController
 
 @end
